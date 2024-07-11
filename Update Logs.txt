@@ -1,0 +1,22 @@
+Deutsch:
+11.07.2024 - Windows Defender Bug Patch - v0.3
+
+1.8.2024 - Englisch wird hinzugefügt - v0.4
+
+10.8.2024 - Backspace wird hinzugefügt - v0.5
+
+20.8.2024 - Es wird benutzerfreundlicher - v0.6
+
+1.9.2024 - Neues Design - v1.0
+
+
+English:
+07/11/2024 -  Windows Defender Bug Patchl - v0.3
+
+Aug 1, 2024 -  Engish is added - v0.4
+
+8/10/2024 - Backspace is added - v0.5
+
+Aug 20, 2024 - It's getting more user friendly - v0.6
+
+9/1/2024 - New design - v1.0
