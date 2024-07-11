@@ -1,3 +1,5 @@
+Current Version: v0.3
+
 Deutsch:
 
 Warnung!
